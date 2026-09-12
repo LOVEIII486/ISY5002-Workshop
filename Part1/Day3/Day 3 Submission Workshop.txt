@@ -1,0 +1,5 @@
+Homework Deliverables:
+(1) Run PCA and LDA on the Cancer dataset.
+(2) Use the PCA output to run either the models from Day1 or Day2.
+(3) Compare the performances of the models, including the LDA model
+(4) Write down your thoughts about using PCA vs LDA vs Feature Selection methods (use the markdown cell to document this)
